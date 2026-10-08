@@ -1,0 +1,598 @@
+{
+  "products": [
+    {
+      "id": "prod-001",
+      "name": "Rang-e-Gulab Lawn Suit",
+      "subtitle": "Luxury 3-Piece Embroidered Spring Lawn",
+      "price": 6999,
+      "originalPrice": 8499,
+      "discountPercent": 18,
+      "image": "/src/assets/images/product_lawn_gulab_suit_1791444014404.jpg",
+      "galleryImages": [
+        "/src/assets/images/product_lawn_gulab_suit_1791444014404.jpg",
+        "/src/assets/images/hero_rangmahal_fashion_1791443997573.jpg"
+      ],
+      "category": "Lawn",
+      "dressType": "3 Piece Suit",
+      "fabric": "Lawn",
+      "work": "Embroidery",
+      "occasion": "Eid",
+      "color": "Blush Pink",
+      "colorHex": "#F4C2C2",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A poetic blend of soft rose tones and intricate ivory threadwork. Includes embroidered lawn shirt with organza border patches, dyed cotton cambric trousers, and a lightweight printed chiffon dupatta adorned with delicate lace finishes.",
+      "stock": 24,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "productCode": "RM-LNW-01",
+      "careInstructions": "Dry clean recommended. Gentle hand wash in cold water with mild detergent. Do not bleach."
+    },
+    {
+      "id": "prod-002",
+      "name": "Noor-e-Sahar 3 Piece Suit",
+      "subtitle": "Classic Emerald Tilla Embroidered Formal",
+      "price": 12999,
+      "originalPrice": 15500,
+      "discountPercent": 16,
+      "image": "/src/assets/images/product_festive_emerald_1791444031532.jpg",
+      "galleryImages": [
+        "/src/assets/images/product_festive_emerald_1791444031532.jpg",
+        "/src/assets/images/category_embroidery_craft_1791444062545.jpg"
+      ],
+      "category": "Festive Wear",
+      "dressType": "3 Piece Suit",
+      "fabric": "Chiffon",
+      "work": "Tilla & Zardozi",
+      "occasion": "Wedding",
+      "color": "Emerald Green",
+      "colorHex": "#0E533B",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Fit for royal gatherings, Noor-e-Sahar features antique gold tilla and zardozi threadwork over pure deep emerald chiffon. Paired with straight-cut raw silk trousers and a scalloped embroidered organza dupatta.",
+      "stock": 15,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "rating": 5,
+      "reviewCount": 42,
+      "productCode": "RM-FST-02",
+      "careInstructions": "Strictly dry clean only. Preserve gold embellishments in breathable muslin pouch."
+    },
+    {
+      "id": "prod-003",
+      "name": "Mehfil Embroidered Suit",
+      "subtitle": "Regal Royal Blue Festive Ensemble",
+      "price": 8999,
+      "originalPrice": 10499,
+      "discountPercent": 14,
+      "image": "/src/assets/images/product_royal_blue_suit_1791444049528.jpg",
+      "galleryImages": [
+        "/src/assets/images/product_royal_blue_suit_1791444049528.jpg",
+        "/src/assets/images/category_embroidery_craft_1791444062545.jpg"
+      ],
+      "category": "Formal Wear",
+      "dressType": "Shalwar Qameez",
+      "fabric": "Silk",
+      "work": "Embroidery",
+      "occasion": "Festive",
+      "color": "Royal Blue",
+      "colorHex": "#1B365D",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Imbued with Mughal grandeur, this royal blue ensemble boasts gold floral motifs on the neckline, sleeves, and hem. Accompanied by silk cigarette pants and a contrast mustard organza dupatta.",
+      "stock": 18,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "rating": 4.8,
+      "reviewCount": 29,
+      "productCode": "RM-FRM-03",
+      "careInstructions": "Dry clean only. Steam iron on reverse side."
+    },
+    {
+      "id": "prod-004",
+      "name": "Gulnaar Cotton Collection",
+      "subtitle": "Everyday Comfort Traditional 2-Piece",
+      "price": 3499,
+      "originalPrice": 4299,
+      "discountPercent": 19,
+      "image": "/src/assets/images/hero_rangmahal_fashion_1791443997573.jpg",
+      "galleryImages": [
+        "/src/assets/images/hero_rangmahal_fashion_1791443997573.jpg"
+      ],
+      "category": "Casual Wear",
+      "dressType": "2 Piece Suit",
+      "fabric": "Cotton",
+      "work": "Digital Print",
+      "occasion": "Casual",
+      "color": "Deep Maroon",
+      "colorHex": "#671B26",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Designed for daily Pakistani grace, Gulnaar is crafted from premium breathable pure cotton with Kashmiri paisley digital print motifs, paired with matching straight shalwar pants.",
+      "stock": 35,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "rating": 4.7,
+      "reviewCount": 56,
+      "productCode": "RM-CSL-04",
+      "careInstructions": "Machine wash cold inside out. Iron at medium heat."
+    },
+    {
+      "id": "prod-005",
+      "name": "Zareen Festive Dress",
+      "subtitle": "Antique Gold & Crimson Bridal Guest Suit",
+      "price": 14999,
+      "originalPrice": 17999,
+      "discountPercent": 17,
+      "image": "/src/assets/images/category_embroidery_craft_1791444062545.jpg",
+      "galleryImages": [
+        "/src/assets/images/category_embroidery_craft_1791444062545.jpg",
+        "/src/assets/images/hero_rangmahal_fashion_1791443997573.jpg"
+      ],
+      "category": "Festive Wear",
+      "dressType": "3 Piece Suit",
+      "fabric": "Organza",
+      "work": "Hand Embellished",
+      "occasion": "Wedding",
+      "color": "Crimson Gold",
+      "colorHex": "#800020",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "An artisanal masterpiece featuring hand-worked dabka, nakshi, and resham embroidery over crimson tissue organza. Completed with an embroidered four-sided bordered dupatta and raw silk inner lining.",
+      "stock": 8,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "rating": 5,
+      "reviewCount": 19,
+      "productCode": "RM-FST-05",
+      "careInstructions": "Strictly dry clean only. Store wrapped in cotton cloth."
+    },
+    {
+      "id": "prod-006",
+      "name": "Chandni Shalwar Qameez",
+      "subtitle": "Pristine Off-White Chikankari Classic",
+      "price": 5499,
+      "originalPrice": 6499,
+      "discountPercent": 15,
+      "image": "/src/assets/images/product_lawn_gulab_suit_1791444014404.jpg",
+      "galleryImages": [
+        "/src/assets/images/product_lawn_gulab_suit_1791444014404.jpg"
+      ],
+      "category": "Embroidered",
+      "dressType": "Shalwar Qameez",
+      "fabric": "Cotton",
+      "work": "Schiffli",
+      "occasion": "Eid",
+      "color": "Off White",
+      "colorHex": "#FAF9F6",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Epitomizing understated elegance, Chandni is adorned with traditional tone-on-tone Lucknowi chikankari schiffli work on premium lawn-cotton, with a classic flared shalwar and pearl-tasseled dupatta.",
+      "stock": 22,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "rating": 4.8,
+      "reviewCount": 31,
+      "productCode": "RM-CHM-06",
+      "careInstructions": "Hand wash with care. Line dry in shade."
+    },
+    {
+      "id": "prod-007",
+      "name": "Roshanara Formal Suit",
+      "subtitle": "Mustard Yellow Festive Organza Suit",
+      "price": 7999,
+      "originalPrice": 9499,
+      "discountPercent": 16,
+      "image": "/src/assets/images/product_royal_blue_suit_1791444049528.jpg",
+      "galleryImages": [
+        "/src/assets/images/product_royal_blue_suit_1791444049528.jpg"
+      ],
+      "category": "Formal Wear",
+      "dressType": "3 Piece Suit",
+      "fabric": "Organza",
+      "work": "Embroidery",
+      "occasion": "Formal",
+      "color": "Mustard",
+      "colorHex": "#E1AD01",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Radiate joy in this sunshine mustard formal ensemble. Features gota patti highlights, thread embroidery, and a banarsi jacquard dupatta that radiates traditional Pakistani charm.",
+      "stock": 14,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "rating": 4.9,
+      "reviewCount": 24,
+      "productCode": "RM-RSH-07",
+      "careInstructions": "Dry clean only."
+    },
+    {
+      "id": "prod-008",
+      "name": "Mehrunisa Eid Collection",
+      "subtitle": "Velvet Collar Festive Peshwas Suit",
+      "price": 11499,
+      "originalPrice": 13999,
+      "discountPercent": 18,
+      "image": "/src/assets/images/hero_rangmahal_fashion_1791443997573.jpg",
+      "galleryImages": [
+        "/src/assets/images/hero_rangmahal_fashion_1791443997573.jpg",
+        "/src/assets/images/category_embroidery_craft_1791444062545.jpg"
+      ],
+      "category": "Eid Collection",
+      "dressType": "3 Piece Suit",
+      "fabric": "Silk",
+      "work": "Tilla & Zardozi",
+      "occasion": "Eid",
+      "color": "Deep Maroon",
+      "colorHex": "#4E0E1B",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Named after Mughal royalty, Mehrunisa features heavy marori and tilla work over luxurious raw silk in an alluring deep plum-maroon shade, paired with a heavily embroidered net dupatta with scalloped borders.",
+      "stock": 16,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "rating": 4.9,
+      "reviewCount": 51,
+      "productCode": "RM-EID-08",
+      "careInstructions": "Dry clean only. Do not iron directly on embroidery."
+    },
+    {
+      "id": "prod-009",
+      "name": "Dastoor Khaddar Ensemble",
+      "subtitle": "Winter Warmth Handwoven Khaddar 3-Piece",
+      "price": 4999,
+      "originalPrice": 5999,
+      "discountPercent": 17,
+      "image": "/src/assets/images/product_festive_emerald_1791444031532.jpg",
+      "galleryImages": [
+        "/src/assets/images/product_festive_emerald_1791444031532.jpg"
+      ],
+      "category": "Casual Wear",
+      "dressType": "3 Piece Suit",
+      "fabric": "Khaddar",
+      "work": "Digital Print",
+      "occasion": "Casual",
+      "color": "Teal Green",
+      "colorHex": "#005E5D",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Authentic Kamalia handloom textured khaddar shirt and trousers, accented with Kashmiri floral patterns and accompanied by an acrylic wool warm shawl.",
+      "stock": 28,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "rating": 4.6,
+      "reviewCount": 39,
+      "productCode": "RM-KHD-09",
+      "careInstructions": "Gentle hand wash. Do not wring or soak."
+    },
+    {
+      "id": "prod-010",
+      "name": "Shehnai Silk Formal",
+      "subtitle": "Peach & Antique Gold Embroidered Silk Suit",
+      "price": 9499,
+      "originalPrice": 11999,
+      "discountPercent": 21,
+      "image": "/src/assets/images/product_lawn_gulab_suit_1791444014404.jpg",
+      "galleryImages": [
+        "/src/assets/images/product_lawn_gulab_suit_1791444014404.jpg"
+      ],
+      "category": "Formal Wear",
+      "dressType": "3 Piece Suit",
+      "fabric": "Silk",
+      "work": "Embroidery",
+      "occasion": "Formal",
+      "color": "Peach",
+      "colorHex": "#FFCBA4",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Graceful muted peach viscose raw silk shirt layered with champagne gold zari embroidery, paired with cigarette trousers and a foil-printed organza dupatta.",
+      "stock": 19,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "rating": 4.8,
+      "reviewCount": 22,
+      "productCode": "RM-SLK-10",
+      "careInstructions": "Dry clean recommended."
+    },
+    {
+      "id": "prod-011",
+      "name": "Pariwash Chiffon Luxury",
+      "subtitle": "Lavender Floral Embroidered Chiffon",
+      "price": 8499,
+      "originalPrice": 9999,
+      "discountPercent": 15,
+      "image": "/src/assets/images/product_royal_blue_suit_1791444049528.jpg",
+      "galleryImages": [
+        "/src/assets/images/product_royal_blue_suit_1791444049528.jpg"
+      ],
+      "category": "Festive Wear",
+      "dressType": "3 Piece Suit",
+      "fabric": "Chiffon",
+      "work": "Embroidery",
+      "occasion": "Festive",
+      "color": "Lavender",
+      "colorHex": "#B57EDC",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Breathtaking pastel lilac chiffon adorned with thread and sequin embroidery across the front, daman, and sleeves. Paired with crepe trousers and embroidered dupatta.",
+      "stock": 17,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "rating": 4.7,
+      "reviewCount": 18,
+      "productCode": "RM-CHF-11",
+      "careInstructions": "Dry clean only."
+    },
+    {
+      "id": "prod-012",
+      "name": "Anarkali Velvet Festive",
+      "subtitle": "Midnight Black Micro-Velvet Embroidered Suit",
+      "price": 16500,
+      "originalPrice": 19500,
+      "discountPercent": 15,
+      "image": "/src/assets/images/category_embroidery_craft_1791444062545.jpg",
+      "galleryImages": [
+        "/src/assets/images/category_embroidery_craft_1791444062545.jpg",
+        "/src/assets/images/hero_rangmahal_fashion_1791443997573.jpg"
+      ],
+      "category": "Festive Wear",
+      "dressType": "3 Piece Suit",
+      "fabric": "Velvet",
+      "work": "Tilla & Zardozi",
+      "occasion": "Wedding",
+      "color": "Midnight Black",
+      "colorHex": "#121212",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Pure 9000 micro velvet embellished with dense antique gold tilla and bead work on the gala and borders. Comes with embroidered velvet trousers and an organza zari dupatta.",
+      "stock": 10,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "rating": 5,
+      "reviewCount": 37,
+      "productCode": "RM-VLV-12",
+      "careInstructions": "Strictly dry clean only."
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-101",
+      "orderNumber": "RM-2026-8812",
+      "customerName": "Ayesha Khan",
+      "customerEmail": "ayesha.khan@example.pk",
+      "customerPhone": "0301-4567890",
+      "address": "House #42, Block F, Model Town",
+      "city": "Lahore",
+      "province": "Punjab",
+      "postalCode": "54700",
+      "orderNotes": "Please deliver after 2 PM.",
+      "items": [
+        {
+          "productId": "prod-001",
+          "name": "Rang-e-Gulab Lawn Suit",
+          "image": "/src/assets/images/product_lawn_gulab_suit_1791444014404.jpg",
+          "price": 6999,
+          "size": "M",
+          "color": "Blush Pink",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 6999,
+      "shippingFee": 0,
+      "discount": 0,
+      "total": 6999,
+      "paymentMethod": "COD",
+      "status": "Shipped",
+      "createdAt": "2026-10-06T11:30:00Z"
+    },
+    {
+      "id": "ord-102",
+      "orderNumber": "RM-2026-8813",
+      "customerName": "Fatima Zahra",
+      "customerEmail": "fatima.zahra@example.pk",
+      "customerPhone": "0321-9876543",
+      "address": "Apartment 7B, Creek Vistas, DHA Phase 8",
+      "city": "Karachi",
+      "province": "Sindh",
+      "postalCode": "75500",
+      "items": [
+        {
+          "productId": "prod-002",
+          "name": "Noor-e-Sahar 3 Piece Suit",
+          "image": "/src/assets/images/product_festive_emerald_1791444031532.jpg",
+          "price": 12999,
+          "size": "S",
+          "color": "Emerald Green",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 12999,
+      "shippingFee": 0,
+      "discount": 1000,
+      "total": 11999,
+      "paymentMethod": "Bank Transfer",
+      "status": "Confirmed",
+      "createdAt": "2026-10-07T14:15:00Z"
+    },
+    {
+      "id": "ord-103",
+      "orderNumber": "RM-2026-8814",
+      "customerName": "Zainab Siddiqui",
+      "customerEmail": "zainab.siddiqui@example.pk",
+      "customerPhone": "0333-5551234",
+      "address": "Street 14, Sector F-7/2",
+      "city": "Islamabad",
+      "province": "Islamabad Capital Territory",
+      "postalCode": "44000",
+      "items": [
+        {
+          "productId": "prod-004",
+          "name": "Gulnaar Cotton Collection",
+          "image": "/src/assets/images/hero_rangmahal_fashion_1791443997573.jpg",
+          "price": 3499,
+          "size": "L",
+          "color": "Deep Maroon",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 6998,
+      "shippingFee": 0,
+      "discount": 0,
+      "total": 6998,
+      "paymentMethod": "COD",
+      "status": "Pending",
+      "createdAt": "2026-10-08T03:20:00Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-01",
+      "name": "Ayesha Khan",
+      "email": "ayesha.khan@example.pk",
+      "phone": "0301-4567890",
+      "city": "Lahore",
+      "orderCount": 3,
+      "totalSpent": 21497,
+      "registeredDate": "2026-08-14"
+    },
+    {
+      "id": "cust-02",
+      "name": "Fatima Zahra",
+      "email": "fatima.zahra@example.pk",
+      "phone": "0321-9876543",
+      "city": "Karachi",
+      "orderCount": 2,
+      "totalSpent": 24998,
+      "registeredDate": "2026-09-02"
+    },
+    {
+      "id": "cust-03",
+      "name": "Zainab Siddiqui",
+      "email": "zainab.siddiqui@example.pk",
+      "phone": "0333-5551234",
+      "city": "Islamabad",
+      "orderCount": 1,
+      "totalSpent": 6998,
+      "registeredDate": "2026-10-01"
+    },
+    {
+      "id": "cust-04",
+      "name": "Mahnoor Tariq",
+      "email": "mahnoor.tariq@example.pk",
+      "phone": "0345-7778899",
+      "city": "Peshawar",
+      "orderCount": 4,
+      "totalSpent": 38500,
+      "registeredDate": "2026-07-20"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "fb-01",
+      "name": "Maryam Bilal",
+      "email": "maryam.b@example.pk",
+      "rating": 5,
+      "message": "The stitching and lawn fabric quality is unmatched! The lace detailing on Rang-e-Gulab received so many compliments on Eid. Will definitely order again from RANGMAHAL.",
+      "createdAt": "2026-10-05T09:12:00Z"
+    },
+    {
+      "id": "fb-02",
+      "name": "Hina Qureshi",
+      "email": "hina.q@example.pk",
+      "rating": 5,
+      "message": "Packaging was so regal and delivery was super fast in Karachi within 2 days. The Noor-e-Sahar emerald chiffon suit is breathtaking in person!",
+      "createdAt": "2026-10-06T15:45:00Z"
+    },
+    {
+      "id": "fb-03",
+      "name": "Sadia Malik",
+      "email": "sadia.malik@example.pk",
+      "rating": 4,
+      "message": "Loved the cotton suit for casual wear. Would love to see more pastel color options in the 2-piece collection.",
+      "createdAt": "2026-10-07T18:30:00Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-01",
+      "productId": "prod-001",
+      "customerName": "Samina Farooq",
+      "city": "Lahore",
+      "rating": 5,
+      "comment": "The embroidery is so delicate and soft, not scratchy at all. Pure summer comfort!",
+      "createdAt": "2026-10-02",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-02",
+      "productId": "prod-001",
+      "customerName": "Rabia Anjum",
+      "city": "Rawalpindi",
+      "rating": 5,
+      "comment": "Color is exactly like the picture. The chiffon dupatta falls with such grace.",
+      "createdAt": "2026-10-04",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-03",
+      "productId": "prod-002",
+      "customerName": "Alizeh Shah",
+      "city": "Karachi",
+      "rating": 5,
+      "comment": "Wore it to my cousin’s Mehndi and everyone asked where I got it from. True luxury!",
+      "createdAt": "2026-10-05",
+      "verifiedPurchase": true
+    }
+  ]
+}

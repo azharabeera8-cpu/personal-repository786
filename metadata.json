@@ -1,0 +1,6 @@
+{
+  "name": "RANGMAHAL - Eastern Pakistani Luxury Fashion",
+  "description": "Timeless Pakistani women's Eastern fashion brand featuring Shalwar Qameez, 3-piece suits, lawn, chiffon, and festive Eid collections with full e-commerce and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
